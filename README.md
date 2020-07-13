@@ -1,4 +1,4 @@
-## Sani
+## MD. Sani Ahmed
 
 > Working as a front-end developer at [Akij Group](https://www.techdiary.dev) 
 
