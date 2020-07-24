@@ -1,6 +1,6 @@
 ## MD. Sani Mia
  
-> Working as a front-end developer at [Akij Group](https://www.techdiary.dev) 
+> Working as a front-end developer at [Akij Group](https://www.akij.net) 
  
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-sani-ahmed-210726161) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rssani.ahmed.7/)
