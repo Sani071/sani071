@@ -1,4 +1,4 @@
-## MD. Sani Mia
+<h1 align="Center">  Hi, I'm Sani  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
  
 > Working as a front-end developer at [Akij Group](https://www.akij.net) 
  
