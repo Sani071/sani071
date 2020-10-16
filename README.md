@@ -1,8 +1,8 @@
 <h1 align="Center">  Hi, I'm Sani  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
  
-> Working as a front-end developer at [Akij Group](https://www.akij.net) 
+> Working as a Software Engineer at [Brain Station 23](https://brainstation-23.com/) 
  
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/md-sani-ahmed-210726161) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sani071) 
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rssani.ahmed.7/)
  
 My name is Sani Ahmed and I'm a full stack web developer, Javascript lover and explorer. With my 2+ years of working career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, redux, webpack, grunt, sass etc.
