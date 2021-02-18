@@ -3,9 +3,9 @@
 > Working as a Software Engineer at [Brain Station 23](https://brainstation-23.com/) 
  
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sani071) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rssani.ahmed.7/)
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/rsani071/)
  
-My name is Sani Ahmed and I'm a full stack web developer, Javascript lover and explorer. With my 2+ years of working career, I learned a lot of modern webs developing tools and frameworks like Nestjs, Graphql, expressjs, reactjs, redux, webpack, grunt, sass etc.
+My name is Sani Ahmed and I'm a full stack web developer, Javascript lover and explorer. With my 2+ years of working career, I learned a lot of modern webs developing tools and frameworks like Nodejs, Reactjs, Vuejs, Expressjs, Nextjs, Graphql, MongoDB, PostgreSQL, redux, webpack, grunt, sass etc.
  
 I've also experience in cloud service of Amazon (Aws)
  
